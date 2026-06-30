@@ -99,3 +99,12 @@ Through this project, I strengthened my ability to:
 - Analyze portfolio performance and asset allocation.
 - Evaluate investment risk and diversification.
 - Present analytical findings through data visualization for decision-making.
+
+## Skills Demonstrated
+
+- SQL
+- Tableau
+- Portfolio Analytics
+- Risk Analysis
+- Data Visualization
+- Financial Analysis
